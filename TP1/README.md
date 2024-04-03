@@ -2,7 +2,7 @@
 #Docker et Docker Compose
 
 ##Requirement
-Par-feu VM docker sur Azure
+Par-feu VM docker sur Azure\
 	- ouvrir le port 5000 : app flask\
 	- ouvrir le port 3000 : grafana\
 	- ouvrir le port 9090 : prometheus\
