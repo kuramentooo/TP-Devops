@@ -1,5 +1,4 @@
 # TP1
-# Docker et Docker Compose
 
 ## Requirement
 Par-feu VM docker sur Azure\
