@@ -1,0 +1,15 @@
+# Utiliser l'image Python officielle
+FROM python:3.9-slim
+
+# Répertoire de travail
+WORKDIR /app
+
+# Copier les fichiers nécessaires dans le conteneur
+COPY requirements.txt .
+COPY appli.py .
+
+# Installer les dépendances
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Commande par défaut pour démarrer l'application
+CMD ["python", "appli.py"]
