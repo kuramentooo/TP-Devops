@@ -24,7 +24,7 @@ Lancer en etant dans TP-Devops/TP1/, "sudo docker compose up -d"
 Ce connecter a grafane avec 'votre.ip:3000'\
 Ajouter DataSource prometheus avec l'ip:port de votre prometheus, puis save&test\
 Ajouter un dashboard avec la requete "flask_http_request_duration_seconds_count"\
-save le dashboard
+Save le dashboard
 
 
 
