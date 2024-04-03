@@ -11,8 +11,8 @@ Mettre Ubuntu a jour avec "sudo apt update && sudo apt upgrade -y"\
 
 git clone https://github.com/kuramentooo/TP-Devops.git
 
-Installer Docker et Docker Compose\
-
+### Installer Docker et Docker Compose\
+"sudo apt install docker docker-compose"
 
 ## Etape 2
 
@@ -20,7 +20,7 @@ Changer l'adresse IP dans le fichier prometheus/prometheus.yml
 
 ## Etape 3
 
-Lancer en etant dans TP-Devops/TP1/, "sudo docker compose up -d"
+Lancer en etant dans TP-Devops/TP1/, "sudo docker-compose up -d"
 
 ## Etape 4
 
