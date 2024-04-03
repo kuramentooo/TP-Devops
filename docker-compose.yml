@@ -1,0 +1,26 @@
+version: '3'
+
+services:
+  flask_app:
+    build:
+      context: .
+      dockerfile: DockerfileFlask
+    ports:
+      - "5000:5000"
+  
+  prometheus:
+    build:
+      context: ./prometheus
+    ports:
+      - "9090:9090"
+    depends_on:
+      - flask_app
+  
+  grafana:
+    build:
+      context: ./grafana
+    ports:
+      - "3000:3000"
+    depends_on:
+      - prometheus
+
