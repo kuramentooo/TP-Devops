@@ -4,4 +4,4 @@ global:
 scrape_configs:
   - job_name: 'flask_app'
     static_configs:
-      - targets: ['40.76.111.229:5000']
+      - targets: ['votre.adresse.ip:5000']
