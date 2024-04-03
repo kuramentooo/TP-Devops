@@ -3,9 +3,9 @@
 
 ##Requirement
 Par-feu VM docker sur Azure
-	- ouvrir le port 5000 : app flask 
-	- ouvrir le port 3000 : grafana
-	- ouvrir le port 9090 : prometheus
+	- ouvrir le port 5000 : app flask\ 
+	- ouvrir le port 3000 : grafana\
+	- ouvrir le port 9090 : prometheus\
 
 ## Etape 1
 
