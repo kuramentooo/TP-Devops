@@ -12,7 +12,7 @@ Par-feu VM docker sur Azure\
 	- ouvrir le port 5000 : app flask\
 	- ouvrir le port 3000 : grafana\
 	- ouvrir le port 9090 : prometheus\
-Mettre Ubuntu a jour avec "sudo apt update && sudo apt upgrade -y"\
+Mettre Ubuntu a jour avec "sudo apt update && sudo apt upgrade -y"
 
 ### Etape 1
 
