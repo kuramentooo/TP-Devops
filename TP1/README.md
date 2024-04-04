@@ -2,8 +2,8 @@
 
 ## Objectif
 
-L'objectif de ce TP est de mettre en place une app Flask et de recuperer grace a Prometheus d'iverses informations.\
-Ce informations seront utiliser dans grafana pour construire un graph.
+L'objectif de ce TP est de mettre en place une app Flask et de récupérer, grace à Prometheus, diverses informations.\
+Ces informations seront utilisées dans grafana pour construire un graph.
 
 ## Mise en place
 
