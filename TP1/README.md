@@ -16,7 +16,7 @@ Mettre Ubuntu a jour avec "sudo apt update && sudo apt upgrade -y"
 
 ### Etape 1
 
-git clone https://github.com/kuramentooo/TP-Devops.git
+git clone https://github.com/kuramentooo/TP1.git
 
 #### Installer Docker et Docker Compose
 "sudo apt install docker docker-compose"
