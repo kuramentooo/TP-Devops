@@ -27,7 +27,7 @@ Changer l'adresse IP dans le fichier prometheus/prometheus.yml
 
 ### Etape 3
 
-Lancer en etant dans TP-Devops/TP1/, "sudo docker-compose up -d"
+Lancer en etant dans TP1/, "sudo docker-compose up -d"
 
 ### Etape 4
 
