@@ -53,4 +53,4 @@ Ensuite avec pip on install ce qui se trouve dans requirements.txt, donc\
 Dans le docker-compose on vient seter les informations pour conteneurs.\
 Pour le conteneur flask app on dit d'utiliser le DockerfileFlask et d'utiliser le port 5000.\
 Pour le conteneur prometheus on dit que si le conteneur flask_app est present, il sera accessible depuis le port 9090.\
-Pour le conteneur gafana on dit dit que si le conteneur prometheus est present, il sera accessible depuis le port 3000.\
+Pour le conteneur gafana on dit dit que si le conteneur prometheus est present, il sera accessible depuis le port 3000.
