@@ -1,5 +1,7 @@
 # TP1
 
+toc_min_heading_level: 2
+
 ## Objectif
 
 L'objectif de ce TP est de mettre en place une app Flask et de récupérer, grace à Prometheus, diverses informations.\
