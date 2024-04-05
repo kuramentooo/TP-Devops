@@ -38,9 +38,9 @@ Save le dashboard
 
 ## Explication de dockerfile
 
-Dans le DockerfileFlask, on vient dire quel version de python on veux utiliser>\
-Ensuite on copy les different fichier que l'on souhaite avoir dans notre conteneur, ici on copy app.py et requierements.txt>\
-Ensuite avec pip on install ce qui ce trouve dans requirements.txt, donc\
+Dans le DockerfileFlask, on vient dire quelle version de python on veut utiliser>\
+Ensuite on copy les differents fichiers que l'on souhaite avoir dans notre conteneur, ici on copy app.py et requierements.txt\
+Ensuite avec pip on install ce qui se trouve dans requirements.txt, donc\
 	- Flask==3.0.2\
 	- docker==5.0.3\
 	- docker-compose==1.29.2\
