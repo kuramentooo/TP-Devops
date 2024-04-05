@@ -1,8 +1,8 @@
 # TP1
 1. [Objecif](#Objectif)
-2. [Mise-en-place](#Mise en place)
-3. [Explication de dockerfile](#Explication de dockerfile)
-4. [Explication docker-compose.yml](#Explication docker-compose.yml)
+2. [Mise en place](#Mise-en-place)
+3. [Explication de dockerfile](#Explication-de-dockerfile)
+4. [Explication docker-compose.yml](#Explication-docker-compose.yml)
 
 
 ## Objectif
