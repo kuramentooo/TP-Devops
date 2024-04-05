@@ -1,6 +1,11 @@
+import TOCInline from '@theme/TOCInline';
 # TP1
 
-toc_min_heading_level: 2
+<TOCInline
+  // Only show h2 and h4 headings
+  toc={toc.filter((node) => node.level === 2 || node.level === 4)}
+  minHeadingLevel={2}
+>
 
 ## Objectif
 
